@@ -1,5 +1,5 @@
 name: Caliptra Security
-run-name: caliptra-ci-msc5jy
+run-name: caliptra-ci-3j24ad
 on:
   pull_request:
     branches: [master]
